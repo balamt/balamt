@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balamt
 - 👀 I’m interested in Programming, Troubleshooting, Debugging, Mentoring and so on.....
-- 🌱 I’m currently learning Python..
+- 🌱 I’m currently learning ReactJS..
 - 📫 How to reach me twitter.com/balamt_in | 
 
 <!---
